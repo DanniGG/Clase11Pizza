@@ -1,0 +1,71 @@
+body {@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');}
+
+header {
+    background-color: #222222;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40 px;
+}
+
+.barranav {
+
+    background-color: #222222;
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    align-items: center
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif
+}
+
+
+.maincontainerpizza {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {background-color: white;
+flex-wrap: wrap;}
+ 
+.maincontainer{
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
+.pizza{display: flex;
+    padding: 20px;
+}
+
+
+ol{
+padding: 0;
+}
+
+
+
+
+.menu {
+    font-family: 'Roboto', sans-serif
+}
+
+.footer
+{background-color:#222222;
+    width: 100%;
+    display:flex;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.pizzafinal{
+    padding: 30px;
+
+}
